@@ -132,7 +132,7 @@ OR PERFORMANCE OF THIS SOFTWARE.
 	HWND({rem:11})
 	return
 	site:
-	Run,https://github.com/maestrith/AHK-Studio
+	; Run,https://github.com/maestrith/AHK-Studio
 	return
 }
 Activate(a,b,c,d*){
